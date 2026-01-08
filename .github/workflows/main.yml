@@ -8,7 +8,7 @@ branches: [ "main" ]
 # What jobs to run
 jobs:
 build:
-runs-on:ubuntu-latest# Environment to run in
+runs-on:ubuntu-latest
 
 steps:
 # Step 1: Checkout the code
